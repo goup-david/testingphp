@@ -10,7 +10,7 @@
 
     <h1>Hello there!</h1>
 
-    <?php require __DIR__ . './another-page/index.php'; ?>
+    <?php require './another-page/index.php'; ?>
 </div>
 </body>
 </html>
