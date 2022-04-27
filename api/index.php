@@ -1,14 +1,1 @@
-<html>
-    <head></head>
-
-<body>
-
-<link rel="stylesheet" href="style.css">
-
-<div class="testbackground">
-    <a href="/anotherpage2">Another Page</a>
-
-    <h1>Hello there!</h1>
-</div>
-</body>
-</html>
+<?php require __DIR__ '/../index.php'; ?>
