@@ -1,6 +1,6 @@
-<head>
+<!-- <head>
     <link href="/style.css" rel="stylesheet" type="text/css">
-</head>
+</head> -->
 
 <div class="testbackground">
     <a href="/anotherpage">Another Page</a>
