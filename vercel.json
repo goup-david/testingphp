@@ -2,12 +2,9 @@
     "functions": {
         "api/*.php": {
             "runtime": "vercel-php@0.4.0"
-        },
-        "cleanUrls": true
+        }
     },
     "routes": [
-        { "src": "/(.*)",  "dest": "/api/index.php" },
-        { "src": "/anotherpage",  "dest": "/api/index-new.php" }
-
+        { "src": "/(.*)",  "dest": "/api/index.php" }
       ]
 }
